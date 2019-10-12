@@ -1,2 +1,7 @@
 # snake-game
-Java Project
+
+> Creator: Dang Nguyen
+> |  Seattle, WA
+> |  January, 2019
+
+Build by Java.
