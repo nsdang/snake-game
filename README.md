@@ -5,7 +5,7 @@
 > |  January, 2019
 
 
-![Home Page 1](./public/img/home-page.png)
+![Home Page 1](./Screenshot 2019-10-13 at 16.28.03.png)
 
 
 ### Overview
