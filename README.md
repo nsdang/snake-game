@@ -5,7 +5,7 @@
 > |  January, 2019
 
 
-![Home Page 1](./Screenshot 2019-10-13 at 16.28.03.png)
+![Home Page 1](https://github.com/nsdang/snake-game/blob/master/Screenshot%202019-10-13%20at%2016.28.03.png)
 
 
 ### Overview
