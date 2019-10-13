@@ -9,8 +9,4 @@
 
 
 ### Overview
-This website allows the user to search up a stock and save the searched stock to its portfolio. It also allows the user to select and view specific information about a stock.
-
-
-### snake-game's Functionalities
-- 
+This program was built based on the well-known game called 'The Snake', which uses Java as the main programming language.
